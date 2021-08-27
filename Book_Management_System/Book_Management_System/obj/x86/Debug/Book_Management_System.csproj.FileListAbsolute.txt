@@ -1,0 +1,22 @@
+E:\C#.net Project\Assingment\Book_Management_System\Book_Management_System\bin\Debug\Book_Management_System.exe
+E:\C#.net Project\Assingment\Book_Management_System\Book_Management_System\bin\Debug\Book_Management_System.pdb
+E:\C#.net Project\Assingment\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.Properties.Resources.resources
+E:\C#.net Project\Assingment\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.csproj.GenerateResource.Cache
+E:\C#.net Project\Assingment\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.exe
+E:\C#.net Project\Assingment\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.pdb
+E:\C#.net Project\Assingment\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.csprojResolveAssemblyReference.cache
+E:\C#.net Project\Assingment\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.frm_Login.resources
+E:\C#.net Project\Assingment\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.frm_Add_Book.resources
+E:\C#.net Project\Assingment\Book_Management_System\Book_Management_System\bin\Debug\Book_Management_System.exe.config
+E:\C#.net Project\Assingment\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.frm_View_All_Book.resources
+E:\C#.net Project\Assingment\Back Up\Book_Management_System\Book_Management_System\bin\Debug\Book_Management_System.exe.config
+E:\C#.net Project\Assingment\Back Up\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.exe
+E:\C#.net Project\Assingment\Back Up\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.pdb
+E:\C#.net Project\Assingment\Back Up\Book_Management_System\Book_Management_System\bin\Debug\Book_Management_System.exe
+E:\C#.net Project\Assingment\Back Up\Book_Management_System\Book_Management_System\bin\Debug\Book_Management_System.pdb
+E:\C#.net Project\Assingment\Back Up\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.csprojResolveAssemblyReference.cache
+E:\C#.net Project\Assingment\Back Up\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.frm_Add_Book.resources
+E:\C#.net Project\Assingment\Back Up\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.frm_Login.resources
+E:\C#.net Project\Assingment\Back Up\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.frm_View_All_Book.resources
+E:\C#.net Project\Assingment\Back Up\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.Properties.Resources.resources
+E:\C#.net Project\Assingment\Back Up\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.csproj.GenerateResource.Cache
