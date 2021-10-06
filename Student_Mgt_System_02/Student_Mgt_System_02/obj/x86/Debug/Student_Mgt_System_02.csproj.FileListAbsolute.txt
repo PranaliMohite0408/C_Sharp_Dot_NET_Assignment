@@ -1,0 +1,27 @@
+R:\c# project\Student_Mgt_System_02\Student_Mgt_System_02\bin\Debug\Student_Mgt_System_02.exe
+R:\c# project\Student_Mgt_System_02\Student_Mgt_System_02\bin\Debug\Student_Mgt_System_02.pdb
+R:\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.frm_Add_New_Student.resources
+R:\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.frm_Login.resources
+R:\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.Properties.Resources.resources
+R:\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.csproj.GenerateResource.Cache
+R:\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.exe
+R:\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.pdb
+R:\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.csprojResolveAssemblyReference.cache
+R:\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.View_All_Student.resources
+R:\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.frm_Search.resources
+R:\c# project\Student_Mgt_System_02\Student_Mgt_System_02\bin\Debug\Student_Mgt_System_02.exe.config
+H:\c# project\Student_Mgt_System_02\Student_Mgt_System_02\bin\Debug\Student_Mgt_System_02.exe.config
+H:\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.exe
+H:\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.pdb
+E:\C#.net Project\c# project\Student_Mgt_System_02\Student_Mgt_System_02\bin\Debug\Student_Mgt_System_02.exe.config
+E:\C#.net Project\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.exe
+E:\C#.net Project\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.pdb
+E:\C#.net Project\c# project\Student_Mgt_System_02\Student_Mgt_System_02\bin\Debug\Student_Mgt_System_02.exe
+E:\C#.net Project\c# project\Student_Mgt_System_02\Student_Mgt_System_02\bin\Debug\Student_Mgt_System_02.pdb
+E:\C#.net Project\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.csprojResolveAssemblyReference.cache
+E:\C#.net Project\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.frm_Add_New_Student.resources
+E:\C#.net Project\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.frm_Login.resources
+E:\C#.net Project\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.frm_Search.resources
+E:\C#.net Project\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.Properties.Resources.resources
+E:\C#.net Project\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.csproj.GenerateResource.Cache
+E:\C#.net Project\c# project\Student_Mgt_System_02\Student_Mgt_System_02\obj\x86\Debug\Student_Mgt_System_02.frm_View_All_Srudents_Details.resources
