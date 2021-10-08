@@ -1,0 +1,27 @@
+R:\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\bin\Debug\Student_Management_System_03.exe
+R:\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\bin\Debug\Student_Management_System_03.pdb
+R:\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.Add_New_Student.resources
+R:\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.frm_Login.resources
+R:\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.Properties.Resources.resources
+R:\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.csproj.GenerateResource.Cache
+R:\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.exe
+R:\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.pdb
+R:\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.csprojResolveAssemblyReference.cache
+R:\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.frm_Search_Student.resources
+R:\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.frm_View_All_Students.resources
+R:\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.MDI_Student_Management_System.resources
+F:\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.exe
+F:\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.pdb
+E:\C#.net Project\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.exe
+E:\C#.net Project\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.pdb
+E:\C#.net Project\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\bin\Debug\Student_Management_System_03.exe
+E:\C#.net Project\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\bin\Debug\Student_Management_System_03.pdb
+E:\C#.net Project\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.csprojResolveAssemblyReference.cache
+E:\C#.net Project\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.Add_New_Student.resources
+E:\C#.net Project\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.frm_Login.resources
+E:\C#.net Project\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.frm_Search_Student.resources
+E:\C#.net Project\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.frm_View_All_Students.resources
+E:\C#.net Project\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.MDI_Student_Management_System.resources
+E:\C#.net Project\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.Properties.Resources.resources
+E:\C#.net Project\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.csproj.GenerateResource.Cache
+E:\C#.net Project\C#.net Assingment\Student_Management_System_03\Student_Management_System_03\bin\Debug\Student_Management_System_03.exe.config
